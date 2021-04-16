@@ -1,3 +1,8 @@
+So this practice task is about basics in react. How class works. Where we use state. How create components. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
